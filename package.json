@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Adrián's Bamazon App ",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriansg85/bamazon.git"
+  },
+  "author": "Adrian Salinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriansg85/bamazon/issues"
+  },
+  "homepage": "https://github.com/adriansg85/bamazon#readme",
+  "dependencies": {
+    "cli-table3": "^0.5.1",
+    "colors": "^1.3.2",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
